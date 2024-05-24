@@ -1,0 +1,36 @@
+﻿Titulo,O_Titulo,Clasificacion,Duracion,P_Accion,P_Aventura,P_Animacion,P_Comedia,P_Crimen,P_Documental,P_Drama,P_Familiar,P_Fantasia,P_Historia,P_Horror,P_Musical,P_Misterio,P_Romance,P_Ciencia Ficcion,P_Suspense,P_Guerra,P_Western,Calificacion
+Oppenheimer,Oppenheimer,R,180,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.81
+American Fiction,American Fiction,R,117,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.73
+Anatomía de una caída,Anatomy of a Fall,R,151,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0.76
+Barbie,Barbie,PG-13,114,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.71
+Los asesinos de la luna,Killers of the Flower Moon,R,206,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0.75
+Los que se quedan,The Holdovers,R,133,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.77
+Maestro,Maestro,R,129,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0.64
+Vidas pasadas,Past Lives,PG-13,105,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0.78
+Pobres criaturas,Poor Things,R,141,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0.78
+Zona de interés,The Zone of Interest,PG-13,105,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0.72
+Rustin,Rustin,PG-13,106,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.67
+Nyad,Nyad,PG-13,121,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.71
+El color púrpura,The Color Purple,PG-13,141,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.7
+Secretos de un escándalo,May December,R,117,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.68
+El niño y la garza,The Boy and the Heron,PG-13,124,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.74
+Elementos,Elemental,PG,101,0,1,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0.77
+Nimona,Nimona,PG,101,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.79
+Mi Amigo Robot,Robot Dreams,NR,102,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0.79
+Spider-Man: A través del Spider-Verso,Spider-Man: Across the Spider-Verse,PG,140,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.84
+La sociedad de la nieve,La sociedad de la nieve,R,144,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0.81
+Perfect Days,Perfect Days,PG,124,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.79
+La sala de profesores,The Teachers' Lounge,PG-13,98,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0.73
+Yo capitán,Io capitano,NR,121,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.78
+La memoria infinita,The Eternal Memory,NR,85,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.83
+Las hijas de Olfa,Four Daughters,NR,107,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.73
+Indiana Jones y el dial del destino,Indiana Jones and the Dial of Destiny,PG-13,154,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.66
+Flamin' Hot: El sabor que cambió la historia,Flamin' Hot,PG-13,99,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.79
+Resistencia,The Creator,PG-13,133,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.71
+Misión imposible: sentencia mortal parte uno,Mission: Impossible – Dead Reckoning Part One,PG-13,163,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.76
+El conde,El conde,R,110,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0.62
+Napoleón,Napoleon,R,158,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0.65
+Golda,Golda,PG-13,100,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0.64
+Godzilla: Minus One,Gojira -1.0,PG-13,124,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0.78
+Guardianes de la Galaxia vol. 3,Guardians of the Galaxy Vol. 3,PG-13,150,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.8
+Django sin cadenas,Django Unchained,R,165,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.85
